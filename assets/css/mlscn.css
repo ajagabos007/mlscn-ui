@@ -144,6 +144,12 @@ body {
     font-family: 'Graphit Bold';
 }
 
+#navBarNav{
+    max-height: 70dvw;
+    overflow-y: scroll;
+    width: 100%;
+    padding-bottom: 2px;
+}
 .mlscn-dropdown-toggle {
     padding-right: 2em;
 }
