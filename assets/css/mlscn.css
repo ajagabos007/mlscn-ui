@@ -183,7 +183,8 @@ body {
     z-index: 1;
     position: relative;
     top: 0px;
-
+    overflow-x: visible;
+    max-width: fit-content;
 }
 
 .mlscn-carousel-img {
